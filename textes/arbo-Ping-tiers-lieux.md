@@ -8,7 +8,7 @@
 
 ## arborescence
 
-- home : ? vue carte par défaut - niveau de zoom Pays de la Loire ?
+home : ? vue carte par défaut - niveau de zoom Pays de la Loire ?
   +-- recherche ? vue carte par défaut - niveau de zoom Pays de la Loire ?
   +-- à propos
   |  +-- présentation (méthodologie, démarche)
