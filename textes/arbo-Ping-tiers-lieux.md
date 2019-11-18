@@ -43,6 +43,7 @@
 
 ## filtres 
 
+```
 .
 +-- champs d'activités / typologie
 |   +-- espaces de co-working
@@ -53,3 +54,4 @@
 |   |   +-- numérique
 +-- département
 +-- sources 
+```
