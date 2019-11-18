@@ -33,10 +33,10 @@
 ## design
 
 - Sélection des modes de vision des données
-- Contenu du footer (liens réseaux sociaux, sites amis etc...)
-- Quels logos ? Où ?
+- Quels logos ? PiNG, Région, CGET (footer, page partenaires)
 - Quelles couleurs ?
 - Quelle URL ? carto.pingbase.net ?
+- Quel nom pour cette carte ? 
 
 ## filtres 
 
