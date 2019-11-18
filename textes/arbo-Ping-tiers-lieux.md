@@ -1,4 +1,4 @@
-# arborescence du site ¨Ping Tiers-Lieux"
+# arborescence du site "Ping Tiers-Lieux"
 
 ## équipe 
 
