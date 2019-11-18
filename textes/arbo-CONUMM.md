@@ -3,7 +3,7 @@
 ## équipe 
 
 - Camille (data, contenus)
-- Greg (données, contenus, coordo)
+- Greg (données, contenus, patate)
 
 
 ## arborescence
