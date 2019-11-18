@@ -11,23 +11,33 @@
 - home :
 
 1 barre de menu
-  - Logo + hyoerlien dessous vers le site
+  
+  - Logo + hyperlien dessous vers le site
+  
   - 3 boutons
-    Projet carto _ Page statique incorporée à la carto _ texte HTML
-    Qui sommes nous ? _ Page statique incorporée à la carto _ texte HTML
-    Partenaires _ Texte HTML seul + logos à cliquer _ hyperliens vers les sites
+    
+    - Projet carto _ Page statique incorporée à la carto _ texte HTML
+    
+    - Qui sommes nous ? _ Page statique incorporée à la carto _ texte HTML
+    
+    - Partenaires _ Texte HTML seul + logos à cliquer _ hyperliens vers les sites
     
 1 barre de filtres
+
   - Onglet recherche
+
   - Services proposés
+  
       Accès libre
       Accompagnement accès aux droits
       Formation aux pratiques numériques   
-  - Modalités d'accompagnement
+   
+   - Modalités d'accompagnement
       Gratuit
       Payant
       Pass numérique
       Adhésions
+  
   - Formations à destination des médiateurs numériques 
   
   Footer :
