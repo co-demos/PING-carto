@@ -24,7 +24,9 @@
     
 1 barre de filtres
 
-  - Onglet recherche
+  - Barre de recherche
+
+  - Recherche par département
 
   - Services proposés
   
