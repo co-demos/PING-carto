@@ -57,4 +57,16 @@
 - Conumm : hyper lien vers le site
 ```
 
-Pied de page de chez pied de page : Licence CC (toute petite écriture tout en bas, au centre)
+## pied de page de chez pied de page : 
+
+- Licence CC (toute petite écriture tout en bas, au centre)
+
+
+## design
+
+- Quel logo principal (dans la barre de navigation) ?
+- Sélection des vues données (table, liste, carte, données) ? 
+- Quels logos ? PiNG, Région, CGET (footer, page partenaires)
+- Quelles couleurs ?
+- Quelle URL ? carto.conumm.fr ?
+- Quel nom pour cette carte ? 

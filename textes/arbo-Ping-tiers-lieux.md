@@ -6,7 +6,7 @@
 - Mona (design, contenus)
 - Meven (jeux de données, contenus)
 
-## arborescence - gros troll
+## arborescence
 
 ```
 .
@@ -16,6 +16,10 @@
 |   +-- présentation (méthodologie, démarche)
 |   +-- données ouvertes, license de la base de données (assemblage)
 |   +-- outils
+```
+
+## footer / réseaux sociaux
+```
 +-- footer (trois colonnes possibles)
 |   +-- Partenaires
 |   |   +--  Région Pays de la Loire Service Territoires
@@ -35,6 +39,7 @@
 
 ## design
 
+- Quel logo principal (dans la barre de navigation) ?
 - Sélection des modes de vision des données
 - Quels logos ? PiNG, Région, CGET (footer, page partenaires)
 - Quelles couleurs ?
