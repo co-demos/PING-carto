@@ -17,3 +17,15 @@
 - Contenu du footer (liens réseaux sociaux, sites amis etc...)
 - Quels logos ? Où ?
 - Quelles couleurs ?
+
+## footer
+
+- colonne gauche : 
+  +-- 
+  
+- colonne centre : 
+  +-- 
+  
+- colonne droite : 
+  +-- 
+
