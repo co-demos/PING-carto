@@ -1,10 +1,10 @@
 ## INFORMATIONS / METHODOLOGIE
-Ce repo contiendra l'ensemble des éléments "custom" propres au projet de cartographie SoNum, indépendamment du code source d'Apiviz. Ceci permettra une meilleure flexibilité et coordination : 
+Ce repo contiendra l'ensemble des éléments "custom" propres au projet de cartographie, indépendamment du code source d'Apiviz. Ceci permettra une meilleure flexibilité et coordination : 
 - le chantier purement technique s'effectuera sur le repo ApiViz, dans le but d'en améliorer la généricité
 - les contenus et documents de cadrage (maquette, charte graphique...) produits par chacun.e seront mis à jour sur ce repo
-- les issues propres au projet de cartographie SoNum seront associées à [ce repo](https://github.com/co-demos/carto-sonum/issues)
+- les issues propres au projet de cartographie SoNum seront associées à [ce repo](https://github.com/co-demos/PING-carto/issues)
 - les issues propres au développement d'ApiViz seront associées au [repo ApiViz](https://github.com/co-demos/ApiViz/issues)
-- la vision générale de l'avancée du projet (gestion des sprints) sera visible et modifiable sur [le(s) projet(s) au niveau plus général de l'organisation co-demos](https://github.com/orgs/co-demos/projects), notamment le [sprint#1](https://github.com/orgs/co-demos/projects/1) concernant la première phase
+- la vision générale de l'avancée du projet (gestion des sprints) sera visible et modifiable sur [le(s) projet(s) au niveau plus général de l'organisation co-demos](https://github.com/orgs/co-demos/projects)
 
 ## ORGANISATION DES DOSSIERS
 Les dossiers sont organisés de la manière suivante : 
