@@ -1,0 +1,10 @@
+/Paragraphe en gras/ 
+Le hub CONUMM est un réseau d’acteurs de la médiation numérique, sa vocation n'est pas de remplacer les dynamiques locales existantes ni de faire à la place de. Il a pour but de faciliter la structuration, la mutualisation des moyens et la reconnaissance des acteurs de la médiation numérique en Pays de la Loire. 
+
+
+
+Impulsé par un appel a projet soutenu par la Banque des territoires et la Mission société numérique, dix autres hubs ont émergé sur différents territoires en France. Chacune de ces structures est autonome et rassemble une diversité d’acteurs différent d’un territoire à l’autre.
+
+En Pays de la Loire, le hub CONUMM est porté par en ensemble d’acteurs associatifs : PiNG, la Ligue de l’enseignement Pays de la Loire, la fédération des centres sociaux Maine et Loire Mayenne, Cyb’@njou. Mais aussi des acteurs des collectivités territoriales : Nantes métropole, le Conseil départemental de Loire Atlantique, le Conseil départemental Maine et Loire et Anjou numérique.
+
+c
