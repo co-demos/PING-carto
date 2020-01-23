@@ -5,15 +5,27 @@
     height: auto;
   }
   .img-medium{
-    max-width: 220px;
+    max-width: 250px;
+    height: auto;
+  }
+  .img-large{
+    max-width: 400px;
     height: auto;
   }
   figure {
-    margin: 0
+    margin: auto;
   }
   .is-horizontal-center {
     justify-content: center;
   }
+  
+  .top-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:5em 0 3em 0 ;
+  }
+
 </style>
 
 <main id="home">
@@ -24,13 +36,7 @@
   <section id="top" class="hero primary-bg">
 
     <div
-      class="background columns is-centered " 
-      style="
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding:5em 0;
-        "
+      class="background columns is-centered top-section" 
       >
 
       <div class="column is-8">
@@ -95,6 +101,13 @@
           Cartographie CONUMM
         </h2> -->
 
+        <div class="has-text-centered content is-horizontal-center">
+          <figure class="image img-large is-inline-block">
+            <img src="https://raw.githubusercontent.com/co-demos/PING-carto/master/logos/hubCONUMM/LogoCONUMM_couleurs.png" alt="Placeholder image">
+          </figure>
+        </div>
+        <br>
+
         <p>
           Le Hub Conumm des Pays de la Loire (France Connectée) est porté par Ping, 
           la fédération des centres sociaux du Maine et Loire et de la Mayenne, 
@@ -108,8 +121,8 @@
           Cet outil sera une précieuse aide pour les travailleurs-euses sociaux 
           qui pourront, en un clic visualiser les ressources mobilisables dans 
           son périmètre et ainsi orienter plus facilement les personnes dans le 
-          besoin de cours informatiques, de simple connexions internet… 
-          Toute ressource visant à ader les personnes éprouvant des 
+          besoin de cours informatiques, de simples connexions internet… 
+          Toute ressource visant à aider les personnes éprouvant des 
           difficultés face au numérique.
         </p>
 
@@ -161,6 +174,7 @@
         <h2 class="has-text-centered">
           Le consortium
         </h2>
+        <hr>
 
         <div class="columns is-centered is-multiline">
 
@@ -219,7 +233,7 @@
     </div>
 
 
-
+    <br>
     
     <div class="columns is-centered">
       
@@ -228,6 +242,7 @@
         <h2 class="has-text-centered">
           Le Hub est financé et soutenu par
         </h2>
+        <hr>
 
         <div class="columns is-centered is-multiline">
 
@@ -254,5 +269,10 @@
 
   <br>
   <br>
+  <br>
+  <br>
+
+
+
 
 </main>
