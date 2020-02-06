@@ -24,3 +24,36 @@ Les dossiers sont organisés de la manière suivante :
 
 ## NOTE METHODOLOGIQUE
 Merci de donner des noms explicites aux fichiers que vous modifierez/ajouterez, ainsi que bien les ajouter dans le dossier qui leur correspond le mieux
+
+
+
+## MINI SERVER
+Un mini serveur Flask est écrit dans le fichier 'server.py' afin de servir les fichiers .html et les fichiers statiques, ceci à des fins de tests et de développement local avec votre application locale d'[Apiviz-backend](https://github.com/co-demos/apiviz-backend).
+
+Pour installer le serveur :
+
+
+```sh
+pip install --upgrade pip
+python3 -m pip install --user virtualenv
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+ou 
+```sh
+sh setup.sh
+source venv/bin/activate
+```
+
+Pour lancer le serveur sur `http://localhost:8800`:
+```sh
+python server.py
+```
+
+Les fichiers seront alors localement servis sur ces adresses : 
+- `http://localhost:8800/html/<path:folder_path>/<string:html_filename>`
+- `http://localhost:8800/statics/<path:folder_path>/<string:static_filename>`
+
