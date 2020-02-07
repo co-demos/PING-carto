@@ -1,4 +1,4 @@
-# arborescence du site "Ping Tiers-Lieux"
+# arborescence du site "Ping carto Tiers-Lieux"
 
 ## équipe 
 
@@ -20,6 +20,7 @@
 
 ## footer / réseaux sociaux
 ```
+
 +-- footer (trois colonnes possibles)
 |   +-- Partenaires
 |   |   +--  Région Pays de la Loire Service Territoires
@@ -29,11 +30,14 @@
 |   |   +-- Ressources sur les tiers lieux
 |   +-- PiNG
 |   |   +-- Description de PiNG
+
 +-- Liens réseaux sociaux
 |   +-- Twitter PiNG
 |   +-- Facebook PiNG
 |   +-- Github PiNG
+
 +-- Par défaut, "propulsé par ApiViz etc" 
+
 +-- Mentions légales (renvoi vers les mentions de PiNG) / crédits
 ```
 
@@ -57,6 +61,8 @@
 |   +-- fablab / atelier partagé
 |   |   +-- artistique
 |   |   +-- numérique
+
 +-- département
+
 +-- sources 
 ```
