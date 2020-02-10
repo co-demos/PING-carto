@@ -17,7 +17,7 @@
   |-- 3 boutons :
     |-- Projet carto _ Page statique incorporée à la carto _ texte HTML
     |-- Qui sommes nous ? _ Page statique incorporée à la carto _ texte HTML
-    |-- Partenaires _ Texte HTML seul + logos à cliquer _ hyperliens vers les sites
+    |-- <strike> Partenaires _ Texte HTML seul + logos à cliquer _ hyperliens vers les sites </strike>
 ```
 
 - barre de filtres
