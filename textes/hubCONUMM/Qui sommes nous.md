@@ -8,3 +8,7 @@ Au delà de la conviction partagée de l’urgence d’agir pour renforcer l’i
 <Bouton> Cliquez-ici pour avoir plus d'information https://conumm.fr/ </bouton>
 
 En Pays de la Loire, le hub CONUMM est porté par en ensemble d’acteurs associatifs ainsi que des acteurs de collectivités territoriales : PiNG, la Ligue de l’enseignement Pays de la Loire, Cyb'@njou porté par la fédération des centres sociaux Maine et Loire Mayenne, Nantes métropole, le Conseil départemental de Loire Atlantique, le Conseil départemental Maine et Loire et Anjou numérique.
+
+Le hub a été impulsé avec le soutien de la Banque des territoires et de la Mission société numérique.
+
+REMETTRE LOGO ET HYPER LIENS DES STRUCTURES COMME SUR LA HOME PAGE !
