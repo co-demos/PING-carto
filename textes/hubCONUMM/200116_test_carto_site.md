@@ -12,10 +12,17 @@ Vous êtes donc invité-e-s à contribuer à sa mise à jour et à son fonctionn
 
 Liens des logos :
 PiNG https://www.pingbase.net/
+
 Cyb'@njou https://cybanjou.org/
+
 La Ligue de l'enseignement des Pays de la Loire https://www.laliguepaysdelaloire.org/
+
 Fédération des centres sociaux Maine et Loire Mayenne https://paysdelaloire.centres-sociaux.fr/federation-des-centres-sociaux-de-maine-et-loire-mayenne/
+
 Nantes métropole https://www.nantesmetropole.fr/
+
 Conseil départemental de Maine et Loire https://www.maine-et-loire.fr/
+
 Conseil déparemental de Loire Atlantique https://www.loire-atlantique.fr/jcms/services-fr-c_5026
+
 Anjour numérique https://www.anjou-numerique.fr/
