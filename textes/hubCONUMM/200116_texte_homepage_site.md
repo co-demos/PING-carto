@@ -4,11 +4,6 @@ Dans ce cadre, nous réalisons une cartographie valorisant les espaces de média
 
 Mais cet outil sera aussi une précieuse aide pour les travailleurs-euses sociaux qui pourront, en un clic visualiser les ressources mobilisables dans son périmètre et ainsi orienter plus facilement les personnes qui seraient en demande pour un accompagnement sur des cours informatiques, une aide aux démarches administratives, une simple connexion internet… Toute ressource visant à  aider les personnes éprouvant des difficultés face au numérique. Ce sont des ressources essentielles pour lutter contre l’isolement des personnes, pour lutter contre toute stigmatisation qui pourrait être engendrée par l’exclusion numérique. 
 
-Vous êtes donc invité-e-s à contribuer à sa mise à jour et à son fonctionnement, en accédant au formulaire en ligne pour renseigner vos actions. https://framaforms.org/cartographie-des-espaces-de-mediation-numerique-en-pays-de-la-loire-1580983145
-
-<i>Pour toutes questions contacter Grégoire Barbot, chargé de la coordination du Hub CONUMM, à gregoire@pingbase.net et Camille Pétron, chargée de la réalisation de la présente cartographie à camille.petron@laligue53.org. </i>
-
-
 
 Liens des logos :
 PiNG https://www.pingbase.net/ 
