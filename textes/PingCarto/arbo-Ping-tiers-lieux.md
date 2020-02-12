@@ -1,4 +1,4 @@
-# arborescence du site "Ping carto Tiers-Lieux"
+# arborescence du site "Regard sur les tiers-lieux en Pays de la Loire"
 
 ## équipe 
 
@@ -10,31 +10,30 @@
 
 ```
 .
-+-- home : ? vue carte par défaut - niveau de zoom Pays de la Loire ?
-+-- recherche ? vue carte par défaut - niveau de zoom Pays de la Loire ?
-+-- [à propos]()
-|   +-- présentation (méthodologie, démarche)
-|   +-- données ouvertes, license de la base de données (assemblage)
-|   +-- outils
++-- home : vue carte par défaut - niveau de zoom Pays de la Loire
++-- recherche: vue carte par défaut - niveau de zoom Pays de la Loire
++-- présentation (méthodologie, démarche)
+|   +-- données ouvertes, license de la base de données (assemblage) - à mentionner dans la démarche?
+|   +-- outils - à mettre plutôt en footer?
 ```
 
 ## footer / réseaux sociaux
 ```
 
 +-- footer (trois colonnes possibles)
-|   +-- Partenaires
-|   |   +--  Région Pays de la Loire Service Territoires
+|   +-- Partenaires (renvoyer vers leurs sites)
+|   |   +-- Région Pays de la Loire Service Territoires
 |   |   +-- CGET
-|   |   +-- Association nationale des Tiers-Lieux 
-|   +-- Pour aller plus loin
+|   |   +-- CRESS
+|   +-- Pour aller plus loin 
 |   |   +-- Ressources sur les tiers lieux
 |   +-- PiNG
-|   |   +-- Description de PiNG
+|   |   +-- Description de PiNG: Comment le numérique transforme-t-il notre société ? Quel est son impact sur notre environnement social, technologique, artistique, naturel ? PiNG invite les citoyen·nes et les professionnel·les à des temps de découverte, de pratique et d’échange pour se ré-approprier ensemble les technologies qui nous entourent. En savoir plus (hyperlien vers pingbase.net)
 
 +-- Liens réseaux sociaux
 |   +-- Twitter PiNG
 |   +-- Facebook PiNG
-|   +-- Github PiNG
+|   +-- Github PiNG ?
 
 +-- Par défaut, "propulsé par ApiViz etc" 
 
@@ -43,26 +42,69 @@
 
 ## design
 
-- Quel logo principal (dans la barre de navigation) ?
-- Sélection des modes de vision des données
-- Quels logos ? PiNG, Région, CGET (footer, page partenaires)
-- Quelles couleurs ?
-- Quelle URL ? carto.pingbase.net ?
-- Quel nom pour cette carte ? 
+- Logo principal (dans la barre de navigation): PiNG + texte "regard sur les tiers-lieux en Pays de la Loire"
+- Sélection des modes de vision des données: à minima carte, liste, tableur
+- Quels logos ? PiNG, Région, CGET, CRESS (footer)
+- Quelles couleurs ? Les deux couleurs utilisées sur le site de PiNG sont : #00c0aa (vertPiNG) et #0E0F35 (bleu foncé).
+- Quelles typos? La typo utilisée sur le site de PiNG est Poppins https://fonts.google.com/specimen/Poppins
+- Quelle URL ? cartes.pingbase.net/tierslieux
+- Quel nom pour cette carte ? Regard sur les tiers-lieux en Pays de la Loire?
+- site uniquement en français, pas de version multilingue
 
 ## filtres 
+```
+Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieurs filtres ensemble.
+
++-- Sources
+|   +-- PiNG
+|   +-- CGET
+|   +-- CRESS
+
++-- Typologies de lieux
+|   +-- Travailler 
+|   +-- Oeuvrer 
+|   +-- Découvrir
+
++-- Département
+|   +-- Loire-Atlantique
+|   +-- Maine et Loire
+|   +-- Mayenne
+|   +-- Sarthe
+|   +-- Vendée
+
++-- Publics
+|   +-- Professionnels
+|   +-- Citoyens
 
 ```
-.
-+-- champs d'activités / typologie
-|   +-- espaces de co-working
-|   |   +-- communautaire
-|   |   +-- privé  
-|   +-- fablab / atelier partagé
-|   |   +-- artistique
-|   |   +-- numérique
 
-+-- département
+## fiche (dans liste)
 
-+-- sources 
 ```
+Chaque fiche que l'on retrouvera dans liste doit mettre en forme les informations suivantes du tableur
++-- encadré 1
+|   +-- image  
+|   +-- ville
+|   +-- nom du lieu
+|   +-- description
+
++-- encadré 2
+|   +-- adresse complète
+|   +-- telephone
+|   +-- url 
+
++-- encadré 3
+|   +-- typologie
+|   +-- publics
+|   +-- modèle juridique
+
+```
+## tableur
+
+```
+Le tableur aura pour entrées:
+|   +-- détails renvoyant vers la page de présentation dédiée (cf fiche)
+|   +-- Nom du lieu
+|   +-- Ville
+|   +-- Typologie
+|   +-- Sources
