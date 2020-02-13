@@ -13,8 +13,7 @@
 +-- home : vue carte par défaut - niveau de zoom Pays de la Loire
 +-- recherche: vue carte par défaut - niveau de zoom Pays de la Loire
 +-- présentation (méthodologie, démarche)
-|   +-- données ouvertes, license de la base de données (assemblage) - à mentionner dans la démarche?
-|   +-- outils - à mettre plutôt en footer?
+|   +-- données ouvertes, license de la base de données (assemblage) - à mentionner dans la démarche
 ```
 
 ## footer / réseaux sociaux
@@ -22,13 +21,14 @@
 
 +-- footer (trois colonnes possibles)
 |   +-- Partenaires (renvoyer vers leurs sites)
-|   |   +-- Région Pays de la Loire Service Territoires
-|   |   +-- CGET
-|   |   +-- CRESS
-|   +-- Pour aller plus loin 
+|   |   +-- Logo Région Pays de la Loire Service Territoires
+|   |   +-- Logo CGET
+|   |   +-- Logo CRESS
+|   +-- Pour aller plus loin (à préciser)
 |   |   +-- Ressources sur les tiers lieux
 |   +-- PiNG
 |   |   +-- Description de PiNG: Comment le numérique transforme-t-il notre société ? Quel est son impact sur notre environnement social, technologique, artistique, naturel ? PiNG invite les citoyen·nes et les professionnel·les à des temps de découverte, de pratique et d’échange pour se ré-approprier ensemble les technologies qui nous entourent. En savoir plus (hyperlien vers pingbase.net)
+|   |   +-- Mentions légales (renvoi vers les mentions de PiNG) / crédits
 
 +-- Liens réseaux sociaux
 |   +-- Twitter PiNG
@@ -37,18 +37,17 @@
 
 +-- Par défaut, "propulsé par ApiViz etc" 
 
-+-- Mentions légales (renvoi vers les mentions de PiNG) / crédits
 ```
 
 ## design
 
-- Logo principal (dans la barre de navigation): PiNG + texte "regard sur les tiers-lieux en Pays de la Loire"
+- Logo principal (dans la barre de navigation): PiNG 
 - Sélection des modes de vision des données: à minima carte, liste, tableur
 - Quels logos ? PiNG, Région, CGET, CRESS (footer)
 - Quelles couleurs ? Les deux couleurs utilisées sur le site de PiNG sont : #00c0aa (vertPiNG) et #0E0F35 (bleu foncé).
 - Quelles typos? La typo utilisée sur le site de PiNG est Poppins https://fonts.google.com/specimen/Poppins
 - Quelle URL ? cartes.pingbase.net/tierslieux
-- Quel nom pour cette carte ? Regard sur les tiers-lieux en Pays de la Loire?
+- Quel nom pour cette carte ? Regards sur les tiers-lieux en Pays de la Loire
 - site uniquement en français, pas de version multilingue
 
 ## filtres 
