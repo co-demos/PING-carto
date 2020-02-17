@@ -15,6 +15,15 @@ Vérifiez bien aussi d'avoir une colonne par filtre, en fonction des filtres que
 
 ------
 
+##### Catégories filtres
+
+- T > Renouveler le travail
+- O > Œuvrer ensemble
+- D > Découvrir collectivement
+- C > Repenser sa consommation 
+
+------
+
 ##### DATASET LE PLUS A JOUR : 
 
 - `TierslieuxPDL_BDD_PING_V4.xls`
