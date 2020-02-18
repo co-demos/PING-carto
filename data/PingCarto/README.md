@@ -22,6 +22,34 @@ Vérifiez bien aussi d'avoir une colonne par filtre, en fonction des filtres que
 - D > Découvrir collectivement
 - C > Repenser sa consommation 
 
+## filtres 
+```
+Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieurs filtres ensemble.
+
++-- Sources
+|   +-- PiNG
+|   +-- CGET
+|   +-- CRESS
+
++-- Typologies de lieux
+|   +-- Travailler 
+|   +-- Oeuvrer 
+|   +-- Découvrir
+
++-- Département
+|   +-- Loire-Atlantique
+|   +-- Maine et Loire
+|   +-- Mayenne
+|   +-- Sarthe
+|   +-- Vendée
+
++-- Publics
+|   +-- Professionnels
+|   +-- Citoyens
+
+```
+
+
 ------
 
 ##### DATASET LE PLUS A JOUR : 
