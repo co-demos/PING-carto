@@ -1,0 +1,84 @@
+INDEX,SOURCE,NOM DU LIEU,ADRESSE_LIEU
+1,CGET,La Chapelle Coworking,134 Rue Paul Bellamy 44000 Nantes
+2,CGET,Dot Parade,3 Rue Mercœur 44000 Nantes
+3,CGET,Espace Esperluette,2 Place Dumoustier 44000 Nantes
+4,CGET,Startup Palace,18 Rue Scribe 44000 Nantes
+5,CGET,La Prairie,22 Rue des Olivettes 44000 Nantes
+6,CGET,La Corderie,2 bis Rue Urvoy de Saint-Bedan 44000 Nantes
+7,CGET,DOJO Nantes,26 Boulevard Stalingrad 44000 Nantes
+8,CGET,Le 144,144 Rue Paul Bellamy 44000 Nantes
+9,CGET,La petite Serre,23 Rue Gambetta 44000 Nantes
+10,CGET,Vacouva,43 Quai de Malakoff 44000 Nantes
+11,CGET,Work'in salorges,16 Quai Ernest Renaud 44100 Nantes
+12,CGET,Labo Arts & Techs / Stereolux,4 boulevard Léon Bureau 44000 Nantes
+13,CGET,ADE Nantes,9 Rue du Petit Châtelier 44300 Nantes
+14,PiNG – CGET,La Cantine numérique,11 Rue la noue bras de fer 44200 Nantes
+15,CGET,La Cordée Nantes,32bis rue Fouré 44000 Nantes  
+16,CGET,L’Atelier 9,9 Rue des Olivettes 44000 Nantes
+17,CRESS,La Conciergerie Coworking,20 Mail des Chantiers 44000 Nantes
+18,CRESS,La Conciergerie du Parc,24 Mail des Chantiers 44000 Nantes
+19,CRESS,La Conciergerie du Front Pop',1 Mail du Front Populaire 44000 Nantes
+20,CRESS – CGET,Le Solilab,8 rue Saint Domingue 44200 NANTES
+21,CRESS,ORA,7 rue Magdeleine 44200 Nantes
+22,PiNG – CRESS – CGET,Plateforme C,Quai des Antilles hangar 30 44200 Nantes
+23,PiNG – CRESS – CGET,Atelier Partagé du Breil,38 rue du Breil 44100 Nantes
+24,CRESS,Le Grand Bain,23 Allée Baco 44000 Nantes
+25,CRESS,La Galerie zéro déchet,5 Rue Fénelon 44000 Nantes
+26,PiNG – CRESS,Mediagraph,1 rue d’Auvours 44000 Nantes
+27,CRESS,Atelier Viking,5 Rue Perelle  44000 NANTES
+28,CRESS,La Station,15 quai Ernest Renaud 44100 Nantes
+29,CRESS,Wattignies Social Club,13 Boulevard des Martyrs Nantais de la Résistance 44000 Nantes
+30,CRESS,Forum Titi,7 Rue Louis Blériot 44700 Orvault
+31,PiNG,Centre Socio-culturel de l’Allée Verte,1 rue de l’allée verte 44230 Saint-Sébastien-sur-Loire
+32,CGET,Workhub,1 avenue des Lions 44800 Saint-Herblain
+33,CGET – CRESS,La Ruche Saint-Nazaire,25 Rue de l'étoile du matin 44600 Saint-Nazaire
+34,CGET,Office Coffee,21 Avenue du Commandant l'Herminier 44600 Saint-Nazaire
+35,CRESS,Les abeilles 44,3 rue de l'Écluse Saint-Nazaire 44600 Saint-Nazaire
+36,CGET,Le Périscop,18 Boulevard Paul Perrin 44600 Saint-Nazaire
+37,PiNG,Ecole d'Arts - Ateliers numériques,24 Avenue Léon Blum 44600 Saint-Nazaire
+38,CRESS – PiNG,Bluelab,66 Centre République 44600 Saint-Nazaire
+39,PiNG,Centre Socioculturel Tempo,7 rue du 11 novembre  44130 Blain
+40,CRESS,Tiers-Lieu de Bouvron,21 bis rue Louis Guihot 44130 Bouvron
+41,CRESS,Le Transistore,La Chapelle sur Erdre
+42,CRESS,Le Millelieu,1 rue Félix Platel 44310 Saint Philbert de Grand Lieu
+43,CGET,Hackerspace LaFaCh (Amicale Laïque Castelbriantaise),13 Place Ernest Breant 44110 Châteaubriant
+44,CGET,Cow-B,7 Rue Jean-Baptiste Olivier  44130 Bouvron
+45,CGET,Le 3ème Lieu,8 place de l’Église 44170 Abbaretz
+46,CGET,L’Incubacteur Estuaire et Sillon,La Croix Gaudin 44360 Saint-Etienne de Montluc
+47,CGET – CRESS,Coworkstation,1 route de Saint Fiacre 44190 Gorges
+48,PiNG – CGET,Gullivigne,Esplanade de Klettgau 44190 Clisson
+49,CRESS,Cosy Parenthèse,3 Venelle de l’Escarpe 44190 Clisson
+50,PiNG – CRESS,Le Fablab Pays d’Ancenis,5 Place Armand de Béthune 44150 Ancenis
+51,CRESS,Cultivons les Cailloux,2  rue de Charost 44150 Ancenis St Géréon 
+52,CRESS,Cowork Notre Dame,21 Route de Nantes 44430 Le Loroux-Bottereau
+53,CGET,La Folie,2 bis Avenue de L’Ile de France 85160 St-Jean-de-Monts
+54,CGET,La Loco Numérique,123 Boulevard Louis Blanc 85000 La Roche S/Yon
+55,CRESS,Le Village de la Vergne,La Vergne Babouin 85 000 La Roche-sur-Yon
+56,PiNG,Lab Ouest,123 Boulevard Louis Blanc 85000 La Roche-sur-Yon
+57,CGET,Espace Flo'tille,31 bis rue Amiral Alquier La Flocellière Sèvremont
+58,CRESS,Le Girafoscope – ArMulETe,69 bis rue des Loges85200 Fontenay-le-Comte
+59,CGET – CRESS – PiNG,Lab’Oddas’Sieux,Maison de quartier 11 rue du Gaingalet 85200 Fontenay-le-Comte
+60,PiNG – CRESS,Le Ludy Lab,2 rue du Bocage Chambretaud 85500 Chanverrie
+61,CRESS,Le Moulin créatif,4 rue Saint-Exupéry 85600 Saint-Hilaire-De-Loulay
+62,PiNG – CRESS – CGET,Le boc@l,Centre social du chemillois 5 rue de la Gabradière 49120 Chemillé-Mellay
+63,CGET,Weforge Angers,25 rue Lenepveu 49000 Angers
+64,CGET,Espace OASIS,1 Rue Saint Samson 49100 Angers
+65,CGET,Espace OASIS 2,12 Rue Saint Maurille 49100 Angers
+66,CGET,SynerJ,12 place Imbach 49100 Angers
+67,CGET,ESPACE CO 49,6 Rue René Brémont 49100 Angers
+68,CRESS,Le 122 - Paï Paï,122 Rue de la Chalouère 49100 Angers
+69,CRESS,Tiers Lieu Angers French Tech,36 rue Thiers Angers  49000
+70,CRESS,Le Roch'Lab,ZA les Gours  49190 Rochefort sur Loire
+71,CRESS,Centrale 7,Rue du Carreau de Bois II Nyoiseau 49500 Segré-en-Anjou Bleu
+72,CRESS,CBIO l’anjou,56 Avenue d'Angers 49190 Rochefort-sur-Loire
+73,PiNG,ßricoLab,8 rue de Bellevue 49630 Corné
+74,PiNG,Centre Social l'Atelier,5 rue de Savennières 49170 St-Georges sur Loire
+75,PiNG,Centre social ESPACE Baugeois,Square du pont des fées Baugé 49150 Baugé en Anjou
+76,CGET,Regus Express Le Mans,Place du 8 Mai 1945 72000 Le Mans
+77,CGET,La Ruche Numérique,1 Boulevard René Levasseur 72100 Le Mans
+78,CGET,La Tribu Co_working,10 Rue du Docteur Leroy 72100 Le Mans
+79,CRESS,Hangar Créalab,43 Place d’Alger 72000 Le Mans
+80,CGET,Village Factory Asnière-sur-Vègre,2 bis Rue du Lavoir 72430 Asnières-sur-Vègre
+81,CGET – PiNG,HAUM,(2eme étage) 57 boulevard Demorieux  72100 Le Mans
+82,CRESS,Le 2-4,2-4 rue des rosiers 53140 Pré-en-Pail 
+83,CRESS,Tiers-Lieu à St-Denis-de-Gastines,2 rue de Bretagne 53500 Saint-Denis-de-Gastines
