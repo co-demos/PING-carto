@@ -60,9 +60,10 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- CRESS
 
 +-- Typologies de lieux
-|   +-- Travailler 
-|   +-- Oeuvrer 
-|   +-- Découvrir
+|   +-- Renouveler le travail
+|   +-- Oeuvrer ensemble
+|   +-- Explorer collectivement
+|   +-- Repenser sa consommation
 
 +-- Département
 |   +-- Loire-Atlantique
