@@ -1,5 +1,31 @@
 <style>
 
+  .img-mini{
+    max-width: 120px;
+    height: auto;
+  }
+  .img-medium{
+    max-width: 250px;
+    height: auto;
+  }
+  .img-large{
+    max-width: 400px;
+    height: auto;
+  }
+  figure {
+    margin: auto;
+  }
+  .is-horizontal-center {
+    justify-content: center;
+  }
+  
+  .top-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:5em 0 3em 0 ;
+  }
+
 </style>
 
 <main id="home">
@@ -13,7 +39,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding:5em 0;
+        padding:4em 0;
         "
       >
 
@@ -21,10 +47,17 @@
 
         <br>
         
-        <h1 class="title is-1">
-          Découvrez tous les lieux de co-working en Pays de la Loire recensés par PiNG et ses partenaires
+        <div class="has-text-centered content is-horizontal-center">
+          <figure class="image img-medium is-inline-block">
+            <img src="https://raw.githubusercontent.com/co-demos/PING-carto/master/logos/PingCarto/logo_ping.png" alt="Placeholder image">
+          </figure>
+        </div>
+
+        <h1 class="title is-1 has-text-centered">
+          Carte des tiers-lieux en Pays de la Loire
         </h1>
 
+        <br>
         <br>
 
         <form action="/recherche" method="GET" class="columns">
@@ -75,22 +108,22 @@
     </div>
   </section>
 
-  <br>
-  <br>
-
   <section class="container">
 
     <div class="columns is-centered">
       <div class="column is-8 content">
-
-        <h2>
-          Loreem ipsum
+        
+        <h2 class="has-text-centered">
+          Présentation
         </h2>
 
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          La carte des tiers-lieux en Pays de la Loire, proposée par PiNG avec le soutien de la Région, a pour objectif de donner à voir la dynamique tiers-lieux sur le territoire régional. Elle permet ainsi de faciliter l’identification des acteurs du mouvement et de valoriser le maillage de ces lieux sur la région.
         </p>
-        
+        <p>
+          D’apparente simplicité, si l’on extrait les aspects techniques d’un tel travail, cette mission s’est révélée plus complexe qu’elle n’y paraît, le sujet même de ce projet renvoyant à des visions multiples. 
+        </p>
+
 
         <br>
         <br>
