@@ -21,14 +21,16 @@
 
 +-- footer (trois colonnes possibles)
 |   +-- Partenaires (renvoyer vers leurs sites)
-|   |   +-- Logo Région Pays de la Loire Service Territoires
-|   |   +-- Logo CGET
-|   |   +-- Logo CRESS
-|   +-- Pour aller plus loin (à préciser)
-|   |   +-- Ressources sur les tiers lieux
+|   |   +-- Logo Région Pays de la Loire [https://www.paysdelaloire.fr/index.php?id=122]
+|   |   +-- Logo CGET/ANCT [https://www.cget.gouv.fr/]
+|   |   +-- Logo CRESS http://www.cress-pdl.org/
+|   +-- Pour aller plus loin
+|   |   +-- Movilab [https://movilab.org/index.php?title=Accueil]
+|   |   +-- Association France Tiers-lieux [https://francetierslieux.fr/]
+|   |   +-- Mission coworking CGET [https://www.cget.gouv.fr/actualites/l-etat-s-engage-pour-soutenir-et-accelerer-la-dynamique-des-tiers-lieux-dans-les-territoires]
 |   +-- PiNG
 |   |   +-- Description de PiNG: Comment le numérique transforme-t-il notre société ? Quel est son impact sur notre environnement social, technologique, artistique, naturel ? PiNG invite les citoyen·nes et les professionnel·les à des temps de découverte, de pratique et d’échange pour se ré-approprier ensemble les technologies qui nous entourent. En savoir plus (hyperlien vers pingbase.net)
-|   |   +-- Mentions légales (renvoi vers les mentions de PiNG) / crédits
+|   |   +-- Mentions légales 
 
 +-- Liens réseaux sociaux
 |   +-- Twitter PiNG
