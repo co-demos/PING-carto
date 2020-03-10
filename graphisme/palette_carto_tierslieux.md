@@ -1,10 +1,14 @@
 
 #### PALETTE DES COULEURS DE LA CARTO TIERS LIEUX PING
 
+----------
+
 cf : https://imagecolorpicker.com/
 
+cf : https://colordesigner.io/gradient-generator
+
 ----------
-sans transparence : 
+sans transparence (thx Mona!) : 
 
 color | HEX | HSL | preview
 :---: | :---:| :---: | :---:
