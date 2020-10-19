@@ -63,8 +63,7 @@ Code postal,departement,dep_nom,Nom lieu,Adresse postale
 44 170,44,Loire-Atlantique,Médiathèque de Jans,12 Route de Nozay 44170 Jans
 44 170,44,Loire-Atlantique,Médiathèque de Marsac-sur-Don,18 Rue Saint-Martin 44170 Marsac-sur-Don
 44 190,44,Loire-Atlantique,Caisse d'Allocations Familiales,2 Rue du Docteur Doussin 44190 Clisson
-44 190,44,Loire-Atlantique,"CoworKlisson
-",1 Route de Saint-Fiacre 44190 Gorges
+44 190,44,Loire-Atlantique,CoworKlisson,1 Route de Saint-Fiacre 44190 Gorges
 44 190,44,Loire-Atlantique,Gullivigne,Esplanade de Klettgau 44190 Clisson
 44 190,44,Loire-Atlantique,La récupérette,4 Rue des Châtaigniers 44190 Clisson
 44 190,44,Loire-Atlantique,Médiathèque Geneviève Couteaux,1 Place Saint-Jacques 44190 Clisson
@@ -72,12 +71,10 @@ Code postal,departement,dep_nom,Nom lieu,Adresse postale
 44 190,44,Loire-Atlantique,Pôle Emploi Clisson,7 Allée du Chantre 44190 Clisson
 44 200,44,Loire Atlantique,CAP Jeunes,23 rue Louis Joxe 44200 NANTES
 44 200,44,Loire-Atlantique,Cyber Espace de Nantes (ACCOORD) ,2 Rue Conan Mériadec 44200 Nantes
-44 200,44,Loire-Atlantique,"Ecole de la deuxième chance
-",10 Rue René Viviani 44200 Nantes
+44 200,44,Loire-Atlantique,Ecole de la deuxième chance,10 Rue René Viviani 44200 Nantes
 44 210,44,Loire-Atlantique,Caisse d'Allocations Familiales,1 BIS Rue Jean Sarment 44210 Pornic
 44 210,44,Loire-Atlantique,CCAS Pornic,1 Rue Jean Sarment 44210 Pornic
-44 210,44,Loire-Atlantique,Centre Médico-Social,"21 route de Saint-Père-en-Retz 44210 Pornic
-                 "
+44 210,44,Loire-Atlantique,Centre Médico-Social,21 route de Saint-Père-en-Retz 44210 Pornic                 
 44 210,44,Loire-Atlantique,Cybercentre de Pornic -Médiathèque,35 Rue Tartifume 44210 Pornic
 44 210,44,Loire-Atlantique,Cybercentre Pornic,35 Rue Tartifume 44210 Pornic
 44 210,44,Loire-Atlantique,Pôlle Emploi,62 Boulevard de Linz 44210 Pornic
@@ -110,10 +107,8 @@ Code postal,departement,dep_nom,Nom lieu,Adresse postale
 44 300,44,Loire-Atlantique,L'EclectiC,3 Rue Eugène Thomas 44300 Nantes
 44 300,44,Loire-Atlantique,Maison de l'emploi Espace Nord,81 Rue des Renards 44300 Nantes
 44 300,44,Loire-Atlantique,Maison de l'emploi Est,9 Rue Augustin Fresnel 44300 Nantes
-44 300,44,Loire-Atlantique,"Maison de quartier La Mano
-",3 Rue Eugène Thomas 44300 Nantes
-44 300,44,Loire-Atlantique,"Médiathèque Luce Courville
-",1 Rue Eugène Thomas 44300 Nantes
+44 300,44,Loire-Atlantique,Maison de quartier La Mano,3 Rue Eugène Thomas 44300 Nantes
+44 300,44,Loire-Atlantique,Médiathèque Luce Courville,1 Rue Eugène Thomas 44300 Nantes
 44 300,44,Loire-Atlantique,Point d'accès au droit,3 Rue Eugène Thomas 44300 Nantes
 44 300,44,Loire-Atlantique,Pôle emploi Nantes,50 Boulevard Albert Einstein 44300 Nantes
 44 310,44,Loire-Atlantique,Cybercentre de Saint-Philbert-de-Grandlieu - ERN,12 Rue de l'Abreuvoir 44310 Saint-Philbert-de-Grand-Lieu
@@ -139,9 +134,7 @@ Code postal,departement,dep_nom,Nom lieu,Adresse postale
 44 390,44,Loire-Atlantique,Médiathèque Nort-sur-Erdre,35 Rue du Général Leclerc 44390 Nort-sur-Erdre
 44 400,44,Loire-Atlantique,Centre Information Jeunesse,19 Avenue de la Vendée 44400 Rezé
 44 400,44,Loire-Atlantique,CSC Ragon,9 rue du vivier 44400 REZE
-44 400,44,Loire-Atlantique,CSC Ragon,"9 rue du vivier
-
-44400 REZE"
+44 400,44,Loire-Atlantique,CSC Ragon,9 rue du vivier44400 REZE
 44 400,44,Loire-Atlantique,Maison de l'emploi Rezé Pont Rousseau,8 Rue Jean Baptiste Vigier 44400 Rezé
 44 400,44,Loire-Atlantique,Nâga,17 Chemin Fontaine Launay 44400 Rezé
 44 400,44,Loire-Atlantique,Centre socio culturel de Ragon,9  rue du vivier 44400
@@ -203,16 +196,14 @@ Code postal,departement,dep_nom,Nom lieu,Adresse postale
 44 580,44,Loire-Atlantique,Maison de services au public,15 Rue de la Taillée (Bourgneuf-en-Retz) 44580 Villeneuve-en-Retz
 44 590,44,Loire-Atlantique,Axetic,45 Rue de Châteaubriant 44590 Sion-les-Mines
 44 590,44,Loire-Atlantique,Cyber-base emploi,14 Rue de la Garlais 44590 Derval
-44 590,44,Loire-Atlantique,"Mairie Saint Vincent des Landes
-",17 Rue de la Mairie 44590 Saint-Vincent-des-Landes
+44 590,44,Loire-Atlantique,Mairie Saint Vincent des Landes,17 Rue de la Mairie 44590 Saint-Vincent-des-Landes
 44 590,44,Loire-Atlantique,Maison de l'emploi Derval,14 Rue de la Garlais 44590 Derval
 44 590,44,Loire-Atlantique,Médiathèque de Derval,15 Rue de la Tour Saint-Clair 44590 Derval
 44 590,44,Loire-Atlantique,Médiathèque de Lusanger,1 Rue de la Gare 44590 Lusanger
 44 590,44,Loire-Atlantique,Médiathèque de Mouais,3 Place de l'église 44590 Mouais
 44 590,44,Loire-Atlantique,Médiathèque de Sion-les-Mines,1 Place du Breil 44590 Sion-les-Mines
 44 600,44,Loire-Atlantique,C.C.A.S Centre Communal Action Sociale,37 Rue Pierre Mendès France 44600 Saint-Nazaire
-44 600,44,Loire-Atlantique,"Centre Information Jeunesse ""La Source""","46 rue d'Anjou
-44606 Saint-Nazaire"
+44 600,44,Loire-Atlantique,"Centre Information Jeunesse ""La Source""",46 rue d'Anjou44606 Saint-Nazaire
 44 600,44,Loire-Atlantique,Ecole d'Arts - Ateliers numériques,24 Avenue Léon Blum 44600 Saint-Nazaire
 44 600,44,Loire-Atlantique,Espace Multimédia Léo Lagrange,1 BIS Rue des Ajoncs 44600 Saint-Nazaire
 44 600,44,Loire-Atlantique,La source,46 Rue d'Anjou 44600 Saint-Nazaire
@@ -261,8 +252,7 @@ Code postal,departement,dep_nom,Nom lieu,Adresse postale
 44 760,44,Loire-Atlantique,Bibliothèque municipale Raymond Devos,Rue des Lutins 44760 Les Moutiers-en-Retz
 44 780,44,Loire-Atlantique,Bibliothèque de Missillac,4 Rue Fontaine Saint-Jean 44780 Missillac
 44 800,44,Loire-Atlantique,Maison de l'emploi Saint Herblain Sillon,5 BIS Avenue de l'Angevinière 44800 Saint-Herblain
-44 800,44,Loire-Atlantique,Service de la vie associative et de l’action socioculturelle," 11 rue de Dijon
-44800 Saint-Herblain"
+44 800,44,Loire-Atlantique,Service de la vie associative et de l’action socioculturelle, 11 rue de Dijon44800 Saint-Herblain
 44 850,44,Loire-Atlantique,Bibliothèque Saint Exupery,40 Rue de Vieillevigne 44850 Ligné
 44 850,44,Loire-Atlantique,Médiathèque Claire Brété cher,62 Rue de Bel-Air 44850 Le Cellier
 49 000,49,Maine-Et-Loire,Association Sciences&Bidouilles,125 Rue de La Chalouere Tiers Lieux PAI-PAI 49000 Angers
@@ -293,11 +283,7 @@ Code postal,departement,dep_nom,Nom lieu,Adresse postale
 49 130,49,Maine-et-Loire,Le Trait d'Union / Espace Social et Jeunesse,45 Rue Abel Boutin-Desvignes 49130 Les Ponts-de-Cé
 49 140,49,Maine-et-Loire,Bibliothèque Croq'Livres,5 rue St Jacques - 49140 Bauné - Loire-Authion
 49 140,49,Maine-et-Loire,MSAP de Seiches-sur-le-Loir,14bis rue Henri Régnier 49140 Seiches-sur-le Loir
-49 150,49,Maine-et-Loire,Centre Social Espace Baugeois,"Cybercentre
-Centre social ESPACE Baugeois
-Square du Pont des Fées
-Commune déléguée de Baugé
-49150 Baugé-en-Anjou"
+49 150,49,Maine-et-Loire,Centre Social Espace Baugeois,CybercentreCentre social ESPACE BaugeoisSquare du Pont des FéesCommune déléguée de Baugé49150 Baugé-en-Anjou
 49 150,49,Maine-et-Loire,CS Espace Baugeois,Square du Pont des Fées 49150 Baugé
 49 150,49,Maine-et-Loire,Maison de services au public,15 Avenue Legoulz de la Boulaie 49150 Baugé-en-Anjou
 49 150,49,Maine-et-Loire,MSAP Baugé en Anjou,15 avenue Legoulz de la Boulaie 49150 Baugé
@@ -317,8 +303,7 @@ Commune déléguée de Baugé
 49 250,49,Maine-et-Loire,Point Cyb /Bibliothèque Mathu’Lu,Passage des Grandes Bottes (Saint-Mathurin-sur-Loire) 49250 Loire-Authion
 49 250,49,Maine-et-Loire,Point Cyb LA MéNITRé,10 Place du Colonel Léon Faye 49250 La Ménitré
 49 260,49,Maine-et-Loire,Centre Social Déclic-PIJ,362 Rue du Général de Gaulle 49260 Montreuil-Bellay
-49 260,49,Maine-et-Loire,"Centre social et culturel intercommunal Roland Charrier
-",139 Rue d'Anjou 49260 Montreuil-Bellay
+49 260,49,Maine-et-Loire,Centre social et culturel intercommunal Roland Charrier,139 Rue d'Anjou 49260 Montreuil-Bellay
 49 260,49,Maine-et-Loire,Médiathèque François Mitterand / Réseau Imagin'R,1 Place Aubelle 49260 Montreuil-Bellay
 49 270,49,Maine-et-Loire,Centre Socioculturel Rives de Loire,20 Rue Jfa Chenouard (Drain) 49270 Orée d'Anjou
 49 280,49,Maine-et-Loire,CSI Ocsygène,18 Rue d’Anjou 49280 Saint-Léger-sous-Cholet
@@ -357,8 +342,7 @@ Commune déléguée de Baugé
 49 370,49,Maine-et-Loire,Bibliothèque du Louroux-Béconnais,5 Place de la mairie 49370 Le Louroux-Béconnais
 49 380,49,Maine-et-Loire,Centre Socio Culturel des Coteaux du Layon,Neufbourg  Thouarcé 49380 Bellevigne en Layon
 49 390,49,Maine-et-Loire,Bibliothèque de Vernantes,28 Rue de Jalesnes 49390 Vernantes
-49 390,49,Maine-et-Loire,"Club d'Initiation et de Perfectionnement en informatique
-",Place de la Mairie 49390 Vernantes
+49 390,49,Maine-et-Loire,Club d'Initiation et de Perfectionnement en informatique,Place de la Mairie 49390 Vernantes
 49 390,49,Maine-et-Loire,Club Initiation Perfectionnement Informatique,Rue de la Chambardière 49390 Vernoil-le-Fourrier
 49 390,49,Maine-et-Loire,Cyberpoint Bibliothèque de Vernantes,28 Rue de Jalesne 49390 Vernantes
 49 400,49,Maine-et-Loire,AFRIEJ Culture et Loisirs,8 Rue de l'Échallier 49400 Distré
@@ -443,12 +427,7 @@ Commune déléguée de Baugé
 53 000,53,Mayenne,Orange Solidarité/Fondation Orange,124  Boulevard Becquerel 53000 Laval
 53 000,53,Mayenne,Secours Catholique de la Mayenne,6 rue du Dr Ferron Laval
 53 000,53,Mayenne,Service de prévention spécialisée 53,20  rue Victor Laval
-53 000,53,Mayenne,UDAF53,"26 rue des Docteurs Calmette et Guérin
-
-CS 11009
-
-53010 Laval cedex
-"
+53 000,53,Mayenne,UDAF53,26 rue des Docteurs Calmette et GuérinCS 1100953010 Laval cedex
 53 014,53,Mayenne,La Ligue de l'enseignement,31  allée du Vieux-Saint-Louis Laval
 53 014,53,Mayenne,Maison départementale de l’autonomie,12 quai de Bootz LAVAL
 53 082,53,Mayenne,MSA Mayenne Orne Sarthe,76 Bd Lucien Daniel Laval
@@ -466,9 +445,7 @@ CS 11009
 53 120,53,Mayenne,Médiathèque Victor Hugo,7 Grande rue Gorron 
 53 120,53,Mayenne,MSAP de Gorron,Place de la Mairie Gorron
 53 120,53,Mayenne,Service aux personnes CCBM,1 grande rue Gorron
-53 140,53,Mayenne,Communauté de commune du Mont des Avaloirs,"1 rue de la corniche de pail
-Pré en pail
-53140 PRE EN PAIL SAINT SAMSON"
+53 140,53,Mayenne,Communauté de commune du Mont des Avaloirs,1 rue de la corniche de pailPré en pail53140 PRE EN PAIL SAINT SAMSON
 53 140,53,Mayenne,Espace France Service de la communauté de communes du mont des avaloirs,1 Rue de la Corniche de Pail (Pré-en-Pail) 53140 Pré-en-Pail-Saint-Samson
 53 140,53,Mayenne,MSAP de Pré-en-Pail Saint-Samson,1 rue de la corniche de pail Pré-en-Pail
 53 160,53,Mayenne,La Maison de Services au Public des Coëvrons,2 Avenue Auguste Janvier 53160 Bais
@@ -521,3 +498,173 @@ Pré en pail
 72 000,72,Sarthe,Hangar Crealab,43 Rue D'alger Le Mans
 72 000,72,Sarthe,La Grande Maison Centre Social Simone Veil,34 Avenue De La Libération Le Mans
 72 000,72,Sarthe,La Tribu Coworking,10 Rue Du Docteur Leroy Le Mans
+72 000,72,Sarthe,Le Mans Créapolis,8 Avenue René Laënnec Le Mans
+72 000,72,Sarthe,Regus,Place Du 8 Mai 1945 Quartier D'affaires Novaxis Le Mans
+72 100,72,Sarthe,Association L'arbre,2 Rue De Pologne Le Mans
+72 100,72,Sarthe,Azimconsulting,19 Boulevard Marie et Alexandre Oyon 72100 Le Mans
+72 100,72,Sarthe,Centre culturel L' Espal,62 Rue de l'Esterel 72100 Le Mans
+72 100,72,Sarthe,Centre D'information Jeunesse,13 Rue De L'etoile Le Mans
+72 100,72,Sarthe,Centre Social Des Quartiers Sud,20 Bd Des Glonnières Le Mans
+72 100,72,Sarthe,Espace Jeunesse Sablons,6 Rue Du Cantal Le Mans
+72 100,72,Sarthe,La Casquette,3 Avenue De Madrid Le Mans
+72 100,72,Sarthe,La Ruche Numérique,19 Boulevard Marie Et Alexandre Oyon Le Mans
+72 100,72,Sarthe,Le Kaleidoscope Centre Social Des Sablons,9 Rue Du Cantal Le Mans
+72 100,72,Sarthe,Le Mans Innovation,57 Boulevard Demorieux Le Mans
+72 100,72,Sarthe,Maison De L'emploi Et De La Formation Et Mission Locale De L'agglomération Mancelle,39 Rue De L'esterel Le Mans
+72 100,72,Sarthe,Maison de l'Emploi et de la Formation Le Mans Métropole Pays du Mans,Place des Sablons 72100 Le Mans
+72 100,72,Sarthe,Mission Locale de l'Agglomération Mancelle,5 BIS Boulevard Winston Churchill 72100 Le Mans (é)
+72 100,72,Sarthe,Mjc Des Roncerays,49 Boulevard De La Fresnellerie Le Mans
+72 100,72,Sarthe,Relais72 Interculturel,6 Rue D'espagne Le Mans
+72 110,72,Sarthe,Cyberbase Espace Maine 301 Centre Intercommunal Mazagran,8 Rue Mazagran Bonnetable
+72 110,72,Sarthe,EPN Maine Saosnois - Antenne Bonnétable,Antenne de Bonnétable  8 rue Mazagran 72110 Bonnétable
+72 110,72,Sarthe,Espace Numérique,Le Bourg Courcival
+72 120,72,Sarthe,Espace Emploi Formation St Calais,17 Rue Fernand Poignant 72120 Saint-Calais
+72 130,72,Sarthe,Centre Social L'escale,4 Rue Bassum Fresnay-Sur-Sarthe
+72 130,72,Sarthe,Cyber-base des Alpes Mancelles,Place Bassum 72130 Fresnay-sur-Sarthe
+72 130,72,Sarthe,Déclic Pays Fresnois,2 Rue de l'Abbé Lelievre 72130 Fresnay-sur-Sarthe
+72 130,72,Sarthe,Haute Sarthe Alpes Mancelles,2 Rue de l'Abbé Lelievre 72130 Fresnay-sur-Sarthe
+72 130,72,Sarthe,Maison De Services Au Public,2 Rue De L'abbé Lelièvre Fresnay-Sur-Sarthe
+72 130,72,Sarthe,Point Information Jeunesse Du Pays Fresnois,4 Rue Bassum Fresnay-Sur-Sarthe
+72 140,72,Sarthe,Cybercentre /Réseau Cyber-Base du Maine Normand,30 Rue du Docteur Touchard 72140 Sillé-le-Guillaume
+72 140,72,Sarthe,Espace De Coworking,30 Rue Du Docteur Touchard Sille-Le-Guillaume
+72 140,72,Sarthe,Espace Emploi,30 Rue Du Docteur Touchard Sille-Le-Guillaume
+72 140,72,Sarthe,Espace Numérique De Sillé Le Guillaume,30 Rue Du Docteur Touchard Sille-Le-Guillaume
+72 150,72,Sarthe,Centre social Belleville,2 Rue de Belleville 72150 Le Grand-Lucé
+72 150,72,Sarthe,Centre Social Rural,2 Rue De Belleville Le Grand-Luce
+72 150,72,Sarthe,Maison De Services Au Public,2 Rue De Belleville Le Grand-Luce
+72 160,72,Sarthe,Cyber Espace De Tuffé,2 Rue Verte Tuffe Val-De-Cheronne
+72 160,72,Sarthe,Cyber-base Tuffé,4 Passage de la Gare (proche bibliothèque) 72160 Tuffé Val de la Chéronne
+72 160,72,Sarthe,Cyberbase De Connerré,1 Rue De L'abreuvoir Connerre
+72 160,72,Sarthe,Espace Numérique,Rue De La Mairie Tuffe Val-De-Cheronne
+72 160,72,Sarthe,Espace Public Numérique,1 Rue de l'Abreuvoir 72160 Connerré
+72 160,72,Sarthe,Espace Public Numérique,48  rue de Paris 72160 Connerré
+72 170,72,Sarthe,Centre Social Georges Rouault,21 Avenue De La Division Leclerc Beaumont-Sur-Sarthe
+72 170,72,Sarthe,Espace Emploi Formation Beaumont MDE ML,13 Place de la Libération 72170 Beaumont-sur-Sarthe
+72 170,72,Sarthe,Espace Numérique,8 Rue Pierreuse Segrie
+72 190,72,Sarthe,Mairie,Square Weyhe Coulaines
+72 190,72,Sarthe,Mission Locale Nord,4 Place De L'europe Coulaines
+72 200,72,Sarthe,Espace De Coworking Cogito,1 Rue Nicolas Appert La Fleche
+72 200,72,Sarthe,Espace Multimédia Du Pays Flèchois,3 Rue Nicolas Appert La Fleche
+72 200,72,Sarthe,Espace Numérique,4 Rue Nationale Clermont-Creans
+72 200,72,Sarthe,Mairie,2 Place De La Mairie Le Bailleul
+72 200,72,Sarthe,Point Information Jeunesse,48 Boulevard Gambetta 72200 La Flèche
+72 200,72,Sarthe,Sablé-sur-Sarthe MDE Sarthe Sud,3 Rue Nicolas Appert 72200 La Flèche
+72 200,72,Sarthe,Espace Multimédia,2 rue Nicolas Appert - 72200 La Flèche
+72 210,72,Sarthe,Communauté de communes du Val de Sarthe, 72210 Val de Sarthe
+72 210,72,Sarthe,Espace emploi Roëzé,27 rue du 11 novembre – BP 26 72210 LA SUZE SUR SARTHE
+72 210,72,Sarthe,Service Emploi De La Communauté De Communes Du Val De Sarthe,27 Rue Du 11 Novembre La Suze-Sur-Sarthe
+72 220,72,Sarthe,Cybercentre Smiden,1 Rue Sainte Anne Ecommoy
+72 220,72,Sarthe,Espace Emploi,2 Rue Sainte Anne Ecommoy
+72 220,72,Sarthe,Espace Rural Emploi Formation,1 Rue Sainte-Anne 72220 Ecommoy
+72 230,72,Sarthe,DEPAR (Demandeurs d'Emploi et Précaire d'Armage et ses environs),28 Avenue de la Paix 72230 Arnage
+72 230,72,Sarthe,Espace Numérique,Place Du Gué Guecelard
+72 240,72,Sarthe,Centre social Conlie,Allée Marie Louise Souty 72240 Conlie
+72 240,72,Sarthe,Centre Social Rural Du Canton De Conlie,9 Allée Marie Louise Souty Conlie
+72 240,72,Sarthe,CyberCentre de Conlie,4 Rue de Gaucher 72240 Conlie
+72 240,72,Sarthe,Cybercentre De Conlie,4 Rue De Gaucher Conlie
+72 250,72,Sarthe,Cybercentre Smiden,1 Rue Des Ecoles Parigne-L'eveque
+72 250,72,Sarthe,SMiDeN & Cybercentre,Rue Des Ecoles; 72250 Parigné-l'Évêque
+72 260,72,Sarthe,Cascade Marolles Les Braults Caf,15 Place De L'eglise Marolles-Les-Braults
+72 260,72,Sarthe,Cyberbase Du Pays Marollais,7 Place Henri Coutard Marolles-Les-Braults
+72 260,72,Sarthe,EPN Maine Saosnois - Antenne Marolles,EPN Maine Saosnois - Antenne de Marolles7 place Henri-Coutard 72260 MAROLLES LES BRAULTS
+72 260,72,Sarthe,Espace Public Numérique,7 Place Henri Coutard 72260 Marolles-les-Braults
+72 260,72,Sarthe,Le bureau de poste,4 BIS Rue du Général de Gaulle 72260 Marolles-les-Braults
+72 260,72,Sarthe,Maison De Services Au Public,Bureau De Poste 4 Bis Rue Du Général De Gaulle Marolles-Les-Braults
+72 270,72,Sarthe,cyber centre du Pays Malicornais,24 BIS Rue Victor Hugo 72270 Malicorne-sur-Sarthe
+72 290,72,Sarthe,Centre Social La Maison des Projets,Rue Pierre Mendès France (Ballon) 72290 Ballon-Saint Mars
+72 290,72,Sarthe,Maison de services au public,20 Rue Paul Ilias (Ballon) 72290 Ballon-Saint Mars
+72 290,72,Sarthe,Maison De Services Au Public,Bureau De Poste 20 Rue Paul Ilias Ballon Saint-Mars
+72 290,72,Sarthe,Maison Des Projets,Espace François Mitterrand Ballon Saint-Mars
+72 300,72,Sarthe,Cybercentre,Place Raphaël Elize 72300 Sablé-sur-Sarthe
+72 300,72,Sarthe,Espace Numérique,25 Rue Du Maine La Chapelle-D'aligne
+72 310,72,Sarthe,La Poste - Agence Communale,12 Place De L'hôtel De Ville Besse-Sur-Braye
+72 330,72,Sarthe,Espace Numérique,1 Place Marin Mersenne Oize
+72 340,72,Sarthe,Centre Social Du Val Du Loir,36 Rue Gervais Chevallier La Chartre-Sur-Le-Loir
+72 340,72,Sarthe,Centre social les trèfles,36 Rue Gervais Chevallier 72340 La Chartre-sur-le-Loir
+72 340,72,Sarthe,Espace Numérique,Place De L'hôtel De Ville Montval-Sur-Loir
+72 340,72,Sarthe,Maison De Services Au Public,Bureau De Poste Place De L'hôtel De Ville La Chartre-Sur-Le-Loir
+72 340,72,Sarthe,Maison de services au public,Place de l'Hotel de Ville 72340 La Chartre-sur-le-Loir
+72 350,72,Sathe,Espace FRANCE SERVICES,Mairie - 1 Place Albert Liébault - 72350 BRULON
+72 350,72,Sarthe,la Mission Locale,1 Place Albert Liebault 72350 Brûlon
+72 350,72,Sarthe,Maison De Services Au Public,1 Place Albert Liébault Brulon
+72 350,72,Sarthe,Relais Service Publics,Place Albert Liebault 72350 Brûlon
+72 400,72,Sarthe,Cyber Espace De La Ferté Bernard,3 Rue Du Moulin à Tan Centre Culturel La Laverie La Ferte-Bernard
+72 400,72,Sarthe,Cybercentre de La Ferté Bernard,3 Rue du Moulin Tan 72400 La Ferté-Bernard
+72 400,72,Sarthe,Maison de l'emploi Sarthe Nord,45 BIS Avenue du Général de Gaulle 72400 La Ferté-Bernard
+72 400,72,Sarthe,Mission Locale Sarthe Nord,45 Bis Avenue Du Général De Gaulle La Ferte-Bernard
+72 430,72,Sarthe,Espace De Coworking Village Factory,2 Bis Rue Du Lavoir Asnieres-Sur-Vegre
+72 430,72,Sarthe,Espace Numérique,3 Rue De La Mairie Ferce-Sur-Sarthe
+72 430,72,Sarthe,Le bureau de poste,20 Rue Pasteur 72430 Noyen-sur-Sarthe
+72 430,72,Sarthe,Maison De Services Au Public,Bureau De Poste 20 Rue Pasteur Noyen-Sur-Sarthe
+72 440,72,Sarthe,Centre Social Bouloire,3 Rue du Collège 72440 Bouloire
+72 450,72,Sarthe,Centre Social Lares,1 Place Jacques Moreau Montfort-Le-Gesnois
+72 450,72,Sarthe,Centre social Montfort,Place Jacques Moreau 72450 Montfort-le-Gesnois
+72 450,72,Sarthe,Cyberbase Emploi,1 Place Jacques Moreau Montfort-Le-Gesnois
+72 460,72,Sarthe,Cybercentre de Savigné L'EvÉque,112 Grande Rue 72460 Savigné l'évèque
+72 460,72,Sarthe,Espace Numérique De La Cdc Le Gesnois Bilurien,112 Grande Rue Savigne-L'eveque
+72 470,72,Sarthe,Centre D'animation Sociale Jean Claude Laude Espace Multimédia,Rue Jacques Guède Champagné
+72 470,72,Sarthe,Cyber-base de Champagné,Rue Jacques Guède 72470 Champagné
+72 500,72,Sarthe,Espace Loir et Bercé,4 Rue de la Bascule (Château-du-Loir) 72500 Montval-sur-Loir
+72 500,72,Sarthe,Espace Public Numérique Loir Lucé Bercé,4 Rue De La Bascule Montval-Sur-Loir
+72 500,72,Sarthe,Espaces Publics Numériques Loir-Lucé-Bercé,rue de la Bascule - Château du Loir72500 Montval sur Loir
+72 500,72,Sarthe,Mission Locale Sarthe Et Loir,16 Rue Du 11 Novembre Montval-Sur-Loir
+72 500,72,Sarthe,Point Information Jeunesse,16 rue du 11 novembre (Château-du-Loir) 72500 Montval-sur-Loir
+72 510,72,Sarthe,Le bureau de poste,7 Rue de la Poste 72510 Mansigné
+72 510,72,Sarthe,Maison De Services Au Public,Bureau De Poste 7 Rue De La Poste Mansigne
+72 540,72,Sarthe,Centre D'accueil Communal De Loué,Rue Du Colonel Donaldson Loue
+72 540,72,Sarthe,Centre d'Accueil Communal de Loué,Rue Ricordeau 72540 Loué
+72 600,72,Sarthe,Cybercentre Du Saosnois,22 Boulevard Victor Hugo Mamers
+72 600,72,Sarthe,Cybercentre du Saosnois (site de Mamers),1 B Rue Ernest Renan 72600 Mamers
+72 600,72,Sarthe,EPN Maine Saosnois - Antenne Mamers,Antenne de Mamers22 Bd Victor Hugo72600 Mamers
+72 600,72,Sarthe,Mission Locale Nord Sarthe - Cyber-base emploi,Place Carnot 72600 Mamers
+72 600,72,Sarthe,Mission Locale Sarthe Nord,Résidence Du Stade Bâtiment E Mamers
+72 610,72,Sarthe,Centre Social - Oisseau le petit,15 Rue des Champs Roux 72610 Oisseau-le-Petit
+72 610,72,Sarthe,Centre Social Du Pays De La Haute Sarthe,15 Les Champs Roux Oisseau-Le-Petit
+72 700,72,Sarthe,Cyber Spay,12 Rue Edouard Moriceau Spay
+72 700,72,Sarthe,Cyber@spay,12 Rue édouard Moriceau 72700 Spay
+72 700,72,Sarthe,Mission Locale Maison De L'emploi,8 Rue Claude Debussy Allonnes
+72 700,72,Sarthe,PAIO - Rives de Sarthe – Le Cube,12 Rue Georges Bizet 72700 Allonnes/Rue Jean Behra72700 Allonnes
+72 800,72,Sarthe,Cybercentre du Pays du Loire,Allée de l'Ancienne Gare 72800 Le Lude
+72 800,72,Sarthe,Cybercentre Intercommunal,Alée De L'ancienne Gare Le Lude
+72 800,72,Sarthe,Espace Intercommunal Des Services,28 Place Neuve Le Lude
+72 800,72,Sarthe,La Communauté de Communes Sud Sarthe,5 Rue des Écoles; 72800 Aubigné-Racan
+72 800,72,Sarthe,Maison De Services Au Public,28 Place Neuve Le Lude
+72 800,72,Sarthe,Maison de services au public de Le Lude,28 Place Neuve 72800 Le Lude
+85 000,85,Vendée,AMAQY ,86 Rue Jean Launois 85000 La Roche-sur-Yon
+85 000,85,Vendée,Espace Public Numérique,86 rue Jean Launois  bât M  Résidence La Vigne aux roses 85000 La Roche sur Yon
+85 000,85,Vendée,Espace Public Numérique de la Roche sur Yon,86 Rue Jean Launois 85000 La Roche-sur-Yon
+85 000,85,Vendée,Germaine,Fédération des Centres sociaux de Vendée71 Bd Aristide Briand - Pôle associatif85000 LA ROCHE SUR YON
+85 100,85,Vendée,Espace Multimédia,Rue de Verdun 85100 Les Sables-d'Olonne
+85 100,85,Vendée,Médiathèque Le Globe  Réseau des médiathèques des Sables d'Olonne ,Rue de Verdun  85100 Les Sables d'Olonne
+85 120,85,Vendée,Espace Multimédia Louis Blanchet,Rue Augustin de Hargues 85120 La Tardière
+85 120,85,Vendée,La Châtaigneraie,7 Place de la République 85120 La Châtaigneraie
+85 140,85,Vendée,cyber centre,Place de la Mairie (Les Essarts) 85140 Essarts en Bocage
+85 170,85,Vendée,Solidavie,4 Bis place du marché
+85 180,85,Vendée,Bibliothèque Michel Raimbaud,Boulevard des Anciens Combattants Afn 85180 Château-d'Olonne
+85 180,85,Vendée,Médiathèque Michel Raimbaud  Réseau des médiathèques des Sables d'Olonne ,Allée du parc de Coubertin  85180 Les Sablesd'Olonne
+85 190,85,Vendée,CYBER ESPACE,Rue de Lattre de Tassigny 85190 Venansault
+85 190,85,Vendée,Cyberclub-Acces,10 Rue du Calvaire 85190 Maché
+85 200,85,Vendée,Centre social ODDAS -La Pommeraie,25  rue des Cordiers 85200 Fontenay le Comte
+85 200,85,Vendée,Foyer Sud Vendée les 3 Portes-PIJ,16 Rue des Gravants 85200 Fontenay-le-Comte
+85 210,85,Vendée,Maison de services au public,41 BIS Rue Georges Clemenceau 85210 Sainte-Hermine
+85 230,85,Vendée,ASSOLI,7 rue Saint Nicolas 85230 Beauvoir-sur-Mer
+85 300,85,Vendée,Cybercentre de la ville de Challans,Boulevard René Bazin 85300 Challans
+85 330,85,Vendée,ESPACE GRAIN DE SEL,18 RUE DE LA POSTE 85330 NOIRMOUTIER EN L'ÎLE
+85 340,85,Vendée,Médiathèque de la Jarrie  Réseau des médiathèques des Sables d'Olonne ,4 rue des Sables  85340 Les Sables d'Olonne
+85 350,85,Vendée,Espace Numérique – Pôle Économique,49 Rue des Bossilles 85350 L'île-d'Yeu
+85 400,85,Vendée,Campus Foyer des jeunes,6 Rue Saint-Mathurin 85400 Luron
+85 440,85,Vendée,Cybercentre du Talmondais (ERN),8 Rue de l'Hôtel de Ville 85440 Talmont-Saint-Hilaire
+85 450,85,Vendée,Bibliothèque municipale,Rue du Puits Chioux 85450 Champagné-les-Marais
+85 450,85,Vendée,Maison de services au public,43 BIS Rue du 11 Novembre 85450 Chaillé-les-Marais
+85 490,85,Vendée,"Centre Socioculturel ""le Kiosque""",13 rue de la Cure 85490 Benet
+85 490,85,Vendée,Maison de services au public,Rue de la Combe 85490 Benet
+85 500,85,Vendée,Cybercentre Les Herbiers,Rue de l'Etenduère 85500 Les Herbiers
+85 540,85,Vendée,France Services,2 RUE DU CHEMIN DE FER - MOUTIERS LES MAUXFAITS
+85 540,85,Vendée,Maison France Services - Vendée Grand Littoral,2 Rue du Chemin de Fer 85540 MOUTIERS-LES-MAUXFAITS
+85 610,85,Vendée,TKPX,15 rue de la croix du houx 85610 La Bernardière
+85 670,85,Vendée,la MSA,Rue Georges Clemenceau 85670 Palluau
+85 700,85,Vendée,Cybercentre du Pays de Pouzauges,Route de Linaudière 85700 Pouzauges
+85 700,85,Vendée,Maison de services au public,La Fournière 85700 Pouzauges
+85 700,85,Vendée,Maison de services au public - France Services Pays de Pouzauges,Maison de l'intercommunalité Le Fournière 85700 POUZAUGES
+85 800,85,Vendée,Centre socioculturel la ptite gare,35 rue du maréchal Leclerc 85800 Saint-Gilles-Croix-de-Vie
+,85,Vendée,l'Accorderie du Pays de Saint Gilles,rue Jules Ferry 85800 Saint Gilles Croix de Vie
