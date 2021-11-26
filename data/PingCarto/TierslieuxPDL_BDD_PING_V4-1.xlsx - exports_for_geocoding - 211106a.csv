@@ -1,0 +1,134 @@
+INDEX,INDEX_SLUG,INDEX_SLUG_CLEAN,SOURCE,SOURCE_temp,SOURCE_codes,SOURCE_codes_temp,NOM DU LIEU,ADRESSE
+pingcarto1_,la-chapelle-coworking,la-chapelle-coworking,CGET,France Tiers-Lieux,CGET,FTL,La Chapelle Coworking,134 Rue Paul Bellamy 44000 Nantes
+pingcarto2_,dot-parade,dot-parade,CGET,France Tiers-Lieux,CGET,FTL,Dot Parade,3 Rue Mercœur 44000 Nantes
+pingcarto3_,espace-esperluette,espace-esperluette,CGET,France Tiers-Lieux,CGET,FTL,Espace Esperluette,2 Place Dumoustier 44000 Nantes
+pingcarto4_,la-prairie,la-prairie,CGET,France Tiers-Lieux,CGET,FTL,La Prairie,22 Rue des Olivettes 44000 Nantes
+pingcarto5_,la-corderie,la-corderie,CGET,France Tiers-Lieux,CGET,FTL,La Corderie,2 bis Rue Urvoy de Saint-Bedan 44000 Nantes
+pingcarto6_,dojo-nantes,dojo-nantes,CGET,France Tiers-Lieux,CGET,FTL,DOJO Nantes,26 Boulevard Stalingrad 44000 Nantes
+pingcarto7_,le-144,le-144,CGET,France Tiers-Lieux,CGET,FTL,Le 144,144 Rue Paul Bellamy 44000 Nantes
+pingcarto8_,la-petite-serre,la-petite-serre,CGET,France Tiers-Lieux,CGET,FTL,La petite Serre,23 Rue Gambetta 44000 Nantes
+pingcarto9_,vacouva,vacouva,CGET,France Tiers-Lieux,CGET,FTL,Vacouva,43 Quai de Malakoff 44000 Nantes
+pingcarto10_,work-in-salorges,work-in-salorges,CGET,France Tiers-Lieux,CGET,FTL,Work'in salorges,16 Quai Ernest Renaud 44100 Nantes
+pingcarto11_,labo-arts-&-techs-/-stereolux,labo-arts-&-techs-/-stereolux,CGET,France Tiers-Lieux,CGET,FTL,Labo Arts & Techs / Stereolux,4 boulevard Léon Bureau 44000 Nantes
+pingcarto12_,ade-nantes,ade-nantes,CGET,France Tiers-Lieux,CGET,FTL,ADE Nantes,9 Rue du Petit Châtelier 44300 Nantes
+pingcarto13_,la-cantine-numérique,la-cantine-numerique,PiNG – CGET – CAP Tiers-Lieux,PiNG – France Tiers-Lieux – CAP Tiers-Lieux,PiNG-CGET-CAPTL,PiNG-FTL-CAPTL,La Cantine numérique,11 Rue la noue bras de fer 44200 Nantes
+pingcarto14_,la-cordée-nantes---fouré,la-cordee-nantes---foure,CGET,France Tiers-Lieux,CGET,FTL,La Cordée Nantes - Fouré,32bis rue Fouré 44000 Nantes  
+pingcarto15_,l’atelier-9,l’atelier-9,CGET,France Tiers-Lieux,CGET,FTL,L’Atelier 9,9 Rue des Olivettes 44000 Nantes
+pingcarto16_,la-conciergerie-coworking,la-conciergerie-coworking,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,La Conciergerie Coworking,20 Mail des Chantiers 44000 Nantes
+pingcarto17_,la-conciergerie-du-parc,la-conciergerie-du-parc,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,La Conciergerie du Parc,24 Mail des Chantiers 44000 Nantes
+pingcarto18_,la-conciergerie-du-front-pop-,la-conciergerie-du-front-pop-,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,La Conciergerie du Front Pop',1 Mail du Front Populaire 44000 Nantes
+pingcarto19_,le-solilab,le-solilab,CAP Tiers-Lieux – CGET,CAP Tiers-Lieux – France Tiers-Lieux,CAPTL-CGET,CAPTL-FTL,Le Solilab,8 rue Saint Domingue 44200 NANTES
+pingcarto20_,ora,ora,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,ORA,7 rue Magdeleine 44200 Nantes
+pingcarto21_,plateforme-c,plateforme-c,PiNG – CAP Tiers-Lieux – CGET,PiNG – CAP Tiers-Lieux – France Tiers-Lieux,PiNG-CAPTL-CGET,PiNG-CAPTL-FTL,Plateforme C,Quai des Antilles hangar 30 44200 Nantes
+pingcarto22_,atelier-partagé-du-breil,atelier-partage-du-breil,PiNG – CAP Tiers-Lieux – CGET,PiNG – CAP Tiers-Lieux – France Tiers-Lieux,PiNG-CAPTL-CGET,PiNG-CAPTL-FTL,Atelier Partagé du Breil,38 rue du Breil 44100 Nantes
+pingcarto23_,le-grand-bain,le-grand-bain,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le Grand Bain,23 Allée Baco 44000 Nantes
+pingcarto24_,la-galerie-zéro-déchet,la-galerie-zero-dechet,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,La Galerie zéro déchet,5 Rue Fénelon 44000 Nantes
+pingcarto25_,association-médiagraph,association-mediagraph,PiNG – CAP Tiers-Lieux – CGET,PiNG – CAP Tiers-Lieux – France Tiers-Lieux,PiNG-CAPTL-CGET,PiNG-CAPTL-FTL,Association Médiagraph,1 rue d'Auvours  44000 Nantes
+pingcarto26_,la-station,la-station,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,La Station,15 quai Ernest Renaud 44100 Nantes
+pingcarto27_,le-wattignies,le-wattignies,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le Wattignies,13 Boulevard des Martyrs Nantais de la Résistance 44000 Nantes
+pingcarto28_,forum-titi,forum-titi,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Forum Titi,7 Rue Louis Blériot 44700 Orvault
+pingcarto29_,centre-socio-culturel-de-l’allée-verte,centre-socio-culturel-de-l’allee-verte,PiNG,PiNG,PiNG,PiNG,Centre Socio-culturel de l’Allée Verte,1 rue de l’allée verte 44230 Saint-Sébastien-sur-Loire
+pingcarto30_,workhub,workhub,CGET,France Tiers-Lieux,CGET,FTL,Workhub,1 avenue des Lions 44800 Saint-Herblain
+pingcarto31_,la-ruche-saint-nazaire,la-ruche-saint-nazaire,CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL,La Ruche Saint-Nazaire,25 Rue de l'étoile du matin 44600 Saint-Nazaire
+pingcarto32_,office-coffee,office-coffee,CGET,France Tiers-Lieux,CGET,FTL,Office Coffee,21 Avenue du Commandant l'Herminier 44600 Saint-Nazaire
+pingcarto33_,les-abeilles-44,les-abeilles-44,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Les abeilles 44,3 rue de l'Écluse Saint-Nazaire 44600 Saint-Nazaire
+pingcarto34_,le-périscop,le-periscop,CGET,France Tiers-Lieux,CGET,FTL,Le Périscop,18 Boulevard Paul Perrin 44600 Saint-Nazaire
+pingcarto35_,ecole-d-arts---ateliers-numériques,ecole-d-arts---ateliers-numeriques,PiNG,PiNG,PiNG,PiNG,Ecole d'Arts - Ateliers numériques,24 Avenue Léon Blum 44600 Saint-Nazaire
+pingcarto36_,bluelab,bluelab,CAP Tiers-Lieux – PiNG,CAP Tiers-Lieux – PiNG,CAPTL-PiNG,CAPTL-PiNG,Bluelab,66 Centre République 44600 Saint-Nazaire
+pingcarto37_,centre-socioculturel-tempo,centre-socioculturel-tempo,PiNG,PiNG,PiNG,PiNG,Centre Socioculturel Tempo,7 rue du 11 novembre 44130 Blain
+pingcarto38_,la-minothèque,la-minotheque,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,La Minothèque,21 bis rue Louis Guihot 44130 Bouvron
+pingcarto39_,le-transistore,le-transistore,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le Transistore,La Chapelle sur Erdre
+pingcarto40_,le-millelieu,le-millelieu,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le Millelieu,1 rue Félix Platel 44310 Saint Philbert de Grand Lieu
+pingcarto41_,hackerspace-lafach-amicale-laïque-castelbriantaise,hackerspace-lafach-amicale-laique-castelbriantaise,CGET,France Tiers-Lieux,CGET,FTL,Hackerspace LaFaCh (Amicale Laïque Castelbriantaise),13 Place Ernest Breant 44110 Châteaubriant
+pingcarto42_,cow-b,cow-b,CGET,France Tiers-Lieux,CGET,FTL,Cow-B,7 Rue Jean-Baptiste Olivier 44130 Bouvron
+pingcarto43_,le-3ème-lieu,le-3eme-lieu,CGET,France Tiers-Lieux,CGET,FTL,Le 3ème Lieu,8 place de l’Église 44170 Abbaretz
+pingcarto44_,l’incubacteur-estuaire-et-sillon,l’incubacteur-estuaire-et-sillon,CGET,France Tiers-Lieux,CGET,FTL,L’Incubacteur Estuaire et Sillon,La Croix Gaudin 44360 Saint-Etienne de Montluc
+pingcarto45_,coworkstation,coworkstation,CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL,Coworkstation,1 route de Saint Fiacre 44190 Gorges
+pingcarto46_,minihub,minihub,PiNG – CGET – CAP Tiers-Lieux,PiNG – France Tiers-Lieux,PiNG-CGET-CAPTL,PiNG-FTL,MiniHub,6 rue des Filatures ZA de Tabari Sud 44190 Clisson
+pingcarto47_,le-fablab-pays-d’ancenis,le-fablab-pays-d’ancenis,PiNG – CAP Tiers-Lieux,PiNG – CAP Tiers-Lieux,PiNG-CAPTL,PiNG-CAPTL,Le Fablab Pays d’Ancenis,5 Place Armand de Béthune 44150 Ancenis
+pingcarto48_,cultivons-les-cailloux,cultivons-les-cailloux,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Cultivons les Cailloux,119 rue des Douves 44150 Ancenis
+pingcarto49_,cowork-notre-dame,cowork-notre-dame,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Cowork Notre Dame,21 Route de Nantes 44430 Le Loroux-Bottereau
+pingcarto50_,la-folie,la-folie,CGET,France Tiers-Lieux,CGET,FTL,La Folie,2 bis Avenue de L’Ile de France 85160 St-Jean-de-Monts
+pingcarto51_,la-loco-numérique,la-loco-numerique,CGET,France Tiers-Lieux,CGET,FTL,La Loco Numérique,123 Boulevard Louis Blanc 85000 La Roche S/Yon
+pingcarto52_,le-village-de-la-vergne,le-village-de-la-vergne,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le Village de la Vergne,La Vergne Babouin  85000  La Roche-sur-Yon
+pingcarto53_,lab-ouest,lab-ouest,PiNG,PiNG,PiNG,PiNG,Lab Ouest,123 Boulevard Louis Blanc 85000 La Roche-sur-Yon
+pingcarto54_,espace-flo-tille,espace-flo-tille,CGET,France Tiers-Lieux,CGET,FTL,Espace Flo'tille,31 bis rue Amiral Alquier La Flocellière Sèvremont
+pingcarto55_,le-girafoscope-–-armulete,le-girafoscope-–-armulete,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le Girafoscope – ArMulETe,69 bis rue des Loges 85200 Fontenay-le-Comte
+pingcarto56_,lab’oddas’sieux,lab’oddas’sieux,CGET – CAP Tiers-Lieux – PiNG,France Tiers-Lieux – CAP Tiers-Lieux – PiNG,CGET – CAPTL – PiNG,FTL – CAPTL – PiNG,Lab’Oddas’Sieux,Maison de quartier 11 rue du Gaingalet 85200 Fontenay-le-Comte
+pingcarto57_,le-ludy-lab,le-ludy-lab,PiNG – CAP Tiers-Lieux,PiNG – CAP Tiers-Lieux,PiNG-CAPTL,PiNG-CAPTL,Le Ludy Lab,2 rue du Bocage Chambretaud 85500 Chanverrie
+pingcarto58_,le-moulin-créatif,le-moulin-creatif,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le Moulin créatif,4 rue Saint-Exupéry 85600 Saint-Hilaire-De-Loulay
+pingcarto59_,le-boc@l,le-boc@l,PiNG – CAP Tiers-Lieux – CGET,PiNG – CAP Tiers-Lieux – France Tiers-Lieux,PiNG-CAPTL-CGET,PiNG-CAPTL-FTL,Le boc@l,Centre social du chemillois 5 rue de la Gabradière 49120 Chemillé en Anjou
+pingcarto60_,weforge-angers,weforge-angers,CGET,France Tiers-Lieux,CGET,FTL,Weforge Angers,25 rue Lenepveu 49000 Angers
+pingcarto61_,espace-oasis,espace-oasis,CGET,France Tiers-Lieux,CGET,FTL,Espace OASIS,1 Rue Saint Samson 49100 Angers
+pingcarto62_,espace-oasis-2,espace-oasis-2,CGET,France Tiers-Lieux,CGET,FTL,Espace OASIS 2,12 Rue Saint Maurille 49100 Angers
+pingcarto63_,synerj,synerj,CGET,France Tiers-Lieux,CGET,FTL,SynerJ,12 place Imbach 49100 Angers
+pingcarto64_,espace-co-49,espace-co-49,CGET,France Tiers-Lieux,CGET,FTL,ESPACE CO 49,6 Rue René Brémont 49100 Angers
+pingcarto65_,le-122---paï-paï,le-122---pai-pai,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le 122 - Paï Paï,122 Rue de la Chalouère 49100 Angers
+pingcarto66_,villa-angers-french-tech,villa-angers-french-tech,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Villa Angers French Tech,8 place Monseigneur Rumeau 49100 Angers
+pingcarto67_,le-roch-lab,le-roch-lab,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le Roch'Lab,ZA les Gours  49190 Rochefort sur Loire
+pingcarto68_,centrale-7,centrale-7,PiNG-CAP Tiers-Lieux,PiNG-CAP Tiers-Lieux,PiNG-CAPTL,PiNG-CAPTL,Centrale 7,Rue du Carreau de Bois II Nyoiseau 49500 Segré-en-Anjou Bleu
+pingcarto69_,c-est-bio-l-anjou,c-est-bio-l-anjou,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,C'est Bio l'Anjou,56 Avenue d'Angers 49190 Rochefort-sur-Loire
+pingcarto70_,ßricolab,ssricolab,PiNG,PiNG,PiNG,PiNG,ßricoLab,"8  Rue de Bellevue 49800 Loire-Authion
+"
+pingcarto71_,centre-social-l-atelier,centre-social-l-atelier,PiNG,PiNG,PiNG,PiNG,Centre Social l'Atelier,5 rue de Savennières 49170 St-Georges sur Loire
+pingcarto72_,centre-social-espace-baugeois,centre-social-espace-baugeois,PiNG,PiNG,PiNG,PiNG,Centre social ESPACE Baugeois,Square du pont des fées Baugé 49150 Baugé en Anjou
+pingcarto73_,regus-express-le-mans,regus-express-le-mans,CGET,France Tiers-Lieux,CGET,FTL,Regus Express Le Mans,Place du 8 Mai 1945 72000 Le Mans
+pingcarto74_,la-ruche-numérique,la-ruche-numerique,CGET,France Tiers-Lieux,CGET,FTL,La Ruche Numérique,1 Boulevard René Levasseur 72100 Le Mans
+pingcarto75_,la-tribu-co_working,la-tribu-co_working,CGET,France Tiers-Lieux,CGET,FTL,La Tribu Co_working,10 Rue du Docteur Leroy 72100 Le Mans
+pingcarto76_,hangar-créalab,hangar-crealab,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Hangar Créalab,43 Place d’Alger 72000 Le Mans
+pingcarto77_,village-factory-asnière-sur-vègre,village-factory-asniere-sur-vegre,CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL,Village Factory Asnière-sur-Vègre,2 bis Rue du Lavoir 72430 Asnières-sur-Vègre
+pingcarto78_,haum,haum,CGET – PiNG,France Tiers-Lieux – PiNG,CGET-PiNG,FTL-PiNG,HAUM,(2eme étage) 57 boulevard Demorieux  72100 Le Mans
+pingcarto79_,le-2-4,le-2-4,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Le 2-4,2-4 rue des rosiers 53140 Pré-en-Pail 
+pingcarto80_,tiers-lieu-à-st-denis-de-gastines,tiers-lieu-a-st-denis-de-gastines,CAP Tiers-Lieux,CAP Tiers-Lieux,CAPTL,CAPTL,Tiers-Lieu à St-Denis-de-Gastines,2 rue de Bretagne 53500 Saint-Denis-de-Gastines
+pingcarto81_,coworking@lude,coworking@lude,CGET,France Tiers-Lieux,CGET,FTL,Coworking@lude,Allée de l'ancienne gare 72800 Le Lude
+pingcarto82_,la-salle-à-manger-coworking,la-salle-a-manger-coworking,CGET,France Tiers-Lieux,CGET,FTL,La Salle à Manger coworking,54 rue des hauts pavés 44000 Nantes
+pingcarto83_,ici-nantes,ici-nantes,CGET – PiNG,France Tiers-Lieux – PiNG,CGET – PiNG,FTL – PiNG,ICI Nantes,24  rue de la Mitrie 44000 NANTES
+pingcarto84_,placetoco,placetoco,CGET,France Tiers-Lieux,CGET,FTL,PlaceToCo,Immeuble Philae ZAC de la Colleraye  44260 Savenay
+pingcarto85_,l-usine-tribu-créative,l-usine-tribu-creative,CGET,France Tiers-Lieux,CGET,FTL,L'Usine-Tribu Créative,4 rue Marie Curie P.A. Vendée sud Loire 1
+pingcarto86_,food-lab-solidaire,food-lab-solidaire,CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL,Food Lab Solidaire,Allée des caves 49650 Brain sur Allonnes
+pingcarto87_,le-palace,le-palace,CGET,France Tiers-Lieux,CGET,FTL,Le Palace,4 rue Voltaire 44000 Nantes
+pingcarto88_,la-bernitude,la-bernitude,CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL,La Bernitude,28 Rue des Courettes 44760 La Bernerie-en-Retz
+pingcarto89_,la-mine-au-tri,la-mine-au-tri,CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL,La Mine au Tri,13 Rue du Huit Mai 44650 Corcoué-sur-Logne
+pingcarto90_,"-château-de-landebaudière-
+","-chateau-de-landebaudiere-
+",CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL," Château de Landebaudière 
+",Rue du Commandant Sauvageot 85130 La Gaubretière
+pingcarto91_,le-centre-&-co,le-centre-&-co,CGET,France Tiers-Lieux,CGET,FTL,Le Centre & Co,10 Rue octave voyer 85100 Les Sables d'Olonne
+pingcarto92_,le-cercle-pointu,le-cercle-pointu,CGET,France Tiers-Lieux,CGET,FTL,Le Cercle Pointu,Rue de la Broderie 49120 Chemillé-en-Anjou
+pingcarto93_,le-puzzle,le-puzzle,CGET,France Tiers-Lieux,CGET,FTL,Le Puzzle,24 rue Crébillon 44000 Nantes
+pingcarto94_,loircowork,loircowork,CGET,France Tiers-Lieux,CGET,FTL,Loircowork,"Zone d’Activités Economiques de l’Aurière 72340 Loir en Vallée
+"
+pingcarto95_,work-in-excess,work-in-excess,CGET,France Tiers-Lieux,CGET,FTL,Work in Excess,182 rue paul Bellamy 44000 Nantes
+pingcarto96_,l-archipel,l-archipel,CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL,L'Archipel,Zone Artisanale du Mottay 53240 Montflours
+pingcarto97_,hacoona,hacoona,CGET,France Tiers-Lieux,CGET,FTL,Hacoona,223 avenue des alliés 44150 Ancenis
+pingcarto98_,-le-67-ateliers-de-créateurs-,-le-67-ateliers-de-createurs-,CGET,France Tiers-Lieux,CGET,FTL, LE 67 ateliers de créateurs , 67 rue du millau  44000 Nantes
+pingcarto99_,"-le-jardin-
+","-le-jardin-
+",CGET,France Tiers-Lieux,CGET,FTL," Le Jardin 
+", 36 avenue Albert de Mun 44600 Saint-Nazaire
+pingcarto100_,le-planty-,le-planty-,CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL,Le Planty ,6 rue de la Tonnellerie 49460 Ecuillé
+pingcarto101_,le-tiers-lieu-du-montreuillais-,le-tiers-lieu-du-montreuillais-,CGET – CAP Tiers-Lieux,France Tiers-Lieux – CAP Tiers-Lieux,CGET-CAPTL,FTL-CAPTL,Le Tiers-Lieu du Montreuillais , rue de l'Europe 49260 Montreuil-Bellay 
+pingcarto102_,le-thiers-lieu,le-thiers-lieu,CGET – PiNG,France Tiers-Lieux – PiNG,CGET-PiNG,FTL-PiNG,Le Thiers lieu, 12 rue thiers 49000 Angers 
+pingcarto103_,weforge-la-roche-sur-yon,weforge-la-roche-sur-yon,,France Tiers-Lieux,,FTL,WeForge La Roche-sur-Yon,114 rue du Maréchal Joffre 85000 La Roche-sur-Yon
+pingcarto104_,le-cube,le-cube,,France Tiers-Lieux,,FTL,Le Cube,Rue Jean Behra 72700 Allonnes 
+pingcarto105_,le-séchoir,le-sechoir,,PiNG – France Tiers-Lieux – CAP Tiers-Lieux,,PiNG-CAPTL-FTL,Le Séchoir,Le liveau 44190 Gorges
+pingcarto106_,la-générale,la-generale,,France Tiers-Lieux – CAP Tiers-Lieux,,FTL-CAPTL,La Générale,Place du 51ème Régiment d'Artillerie 44000 Nantes
+pingcarto107_,les-ateliers-de-bitche,les-ateliers-de-bitche,,France Tiers-Lieux – CAP Tiers-Lieux,,FTL-CAPTL,les Ateliers de Bitche,3 rue de Bitche 44000 Nantes
+pingcarto108_,germaine-café-numérique-mobile,germaine-cafe-numerique-mobile,,PiNG – France Tiers-Lieux,,PiNG-FTL,Germaine Café Numérique mobile,71 Bd Aristide Briand 85 000 La Roche Sur Yon
+pingcarto109_,la-cordée-nantes---erdre,la-cordee-nantes---erdre,,France Tiers-Lieux,,FTL,La Cordée Nantes - Erdre,33 rue de Strasbourg 44000 Nantes
+pingcarto110_,open-lande,open-lande,,France Tiers-Lieux – CAP Tiers-Lieux,,FTL-CAPTL,Open Lande,10 rue de l'île Mabon 44200 Nantes
+pingcarto111_,cpie-sèvre-et-bocage---maison-de-la-vie-rurale,cpie-sevre-et-bocage---maison-de-la-vie-rurale,,France Tiers-Lieux – CAP Tiers-Lieux,,FTL-CAPTL,CPIE Sèvre et Bocage - Maison de la Vie Rurale,4 La Bernardière La Flocellière 85700 Sèvremont
+pingcarto112_,gueules-de-bois,gueules-de-bois,,PiNG – France Tiers-Lieux – CAP Tiers-Lieux,,PiNG-CAPTL-FTL,Gueules de Bois,rue du Sénégal 44000 Nantes
+pingcarto113_,écofolies,ecofolies,,France Tiers-Lieux – CAP Tiers-Lieux,,FTL-CAPTL,Écofolies,23 rue Roche Blanche 44680 Sainte-Pazanne
+pingcarto114_,tiers-lieu-marsien,tiers-lieu-marsien,,PiNG – France Tiers-Lieux – CAP Tiers-Lieux,,PiNG-CAPTL-FTL,Tiers-lieu marsien,17 rue du 3 août 1944 44850 Saint-Mars-du-Désert
+pingcarto115_,grand-lieu-du-conte-la-maison-des-possibles,grand-lieu-du-conte-la-maison-des-possibles,,PiNG – France Tiers-Lieux – CAP Tiers-Lieux,,PiNG-CAPTL-FTL,Grand Lieu du Conte  la maison des possibles,2 rue des frères Rousseau 44860 St Aignan de Grand Lieu
+pingcarto116_,casa-feliz-fabrique-du-mieux-être-résonances-solidaires,casa-feliz-fabrique-du-mieux-etre-resonances-solidaires,,France Tiers-Lieux – CAP Tiers-Lieux,,FTL-CAPTL,Casa Feliz fabrique du mieux-être Résonances solidaires ,18  Rue Alain de Rouge 72300 sablé-sur-Sarthe
+pingcarto117_,le-23,le-23,,France Tiers-Lieux,,FTL,Le 23,23  rue Villebois-Mareuil  44000 Nantes
+pingcarto118_,l’ilocôt,l’ilocot,,PiNG – France Tiers-Lieux – CAP Tiers-Lieux,,PiNG-CAPTL-FTL,L’Ilocôt,Gue Perroux 72700 Saint-Georges-du-Bois
+pingcarto119_,centre-socio-culturel-le-kiosque,centre-socio-culturel-le-kiosque,,PiNG – France Tiers-Lieux – CAP Tiers-Lieux,,PiNG-CAPTL-FTL,Centre socio-culturel le kiosque,13 Rue de la Cure 85490 Benet
+pingcarto120_,level,level,,France Tiers-Lieux – CAP Tiers-Lieux,,FTL-CAPTL,LEVEL,rue Achille Bienvenu 53000 LAVAL
+pingcarto121_,bain-public-,bain-public-,,France Tiers-Lieux – CAP Tiers-Lieux,,FTL-CAPTL,Bain Public ,24 rue des Halles  44600 Saint-Nazaire
+pingcarto122_,ensemble-au-bureau-,ensemble-au-bureau-,,France Tiers-Lieux,,FTL,Ensemble au bureau ,466 route de clisson  44120 Vertou
+pingcarto123_,-le-lieu-bêta-,-le-lieu-beta-,,France Tiers-Lieux,,FTL, Le Lieu Bêta ,7 avenue de l'Osier 49125
+pingcarto124_,fablab-emode-,fablab-emode-,,PiNG – France Tiers-Lieux – CAP Tiers-Lieux,,PiNG-CAPTL-FTL,FabLab eMode ,"20 rue du Carteron 49300
+CHOLET"
